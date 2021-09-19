@@ -1,7 +1,9 @@
 
 data/raw/*.csv
 data/processed/*.csv
+data/processed/*.parquet
 data/modeling/*.csv
+data/modeling/*.parquet
 
 
 # Byte-compiled / optimized / DLL files
