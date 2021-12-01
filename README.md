@@ -8,7 +8,7 @@ This project depends upon Spark 3.1, Pyspark, and seaborn for processing.  While
 
 Due to the dataset size, it cannot be uploaded into github.  Instead, you can manually download it from Kaggle at https://www.kaggle.com/arevel/chess-games/download.
 
-Note that the notebooks assume the CSV from the above link is placed in the file `<gitrepo>/data/raw/chess-games.csv`.
+Note that the notebooks assume the CSV from the above link is placed in the file `<gitrepo>/data/raw/chess_games.csv`.
 
 ### Order of notebook execution
 
